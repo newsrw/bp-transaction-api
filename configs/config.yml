@@ -1,0 +1,7 @@
+CONFIG:
+  SERVER:
+    ADDRESS: "https://mock-node-wgqbnxruha-as.a.run.app"
+  CLIENT:
+    PORT: 8080
+    MONITORDELAYDURATION: 5
+
